@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **usman-kupalov/usman-kupalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
